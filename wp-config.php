@@ -71,6 +71,17 @@ $table_prefix = 'wp_';
  */
 if ( ! defined( 'WP_DEBUG' ) ) {
 	define('WP_DEBUG', false);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+define('FS_METHOD', 'direct');	
 }
 
 /* That's all, stop editing! Happy Pressing. */
